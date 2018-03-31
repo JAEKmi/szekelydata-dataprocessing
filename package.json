@@ -1,0 +1,19 @@
+{
+  "name": "dataproc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "all-the-cities": "^2.0.1",
+    "geocoder": "^0.2.3",
+    "promise": "^8.0.1",
+    "node-geocoder": "^3.21.1",
+    "smart-city-finder": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szekely Akos",
+  "license": "ISC"
+}
