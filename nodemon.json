@@ -1,0 +1,3 @@
+{
+  "ignore": ["writtenFiles/*.json"]
+}
